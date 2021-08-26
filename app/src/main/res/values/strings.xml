@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Instagram</string>
+    <string name="description">Description..</string>
+    <string name="post">POST</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="log_out">Log_out</string>
+    <string name="settings">Settings</string>
+    <string name="terms"><u>Terms</u></string>
+    <string name="privacy_policy"><u>Privacy policy</u></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

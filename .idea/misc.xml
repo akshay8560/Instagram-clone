@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Instagram-app-master/app/src/main/res/drawable/blue_button.xml" value="0.19722222222222222" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/drawable/btn_shape_1.xml" value="0.19722222222222222" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/activity_add_story.xml" value="0.1" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/activity_chat.xml" value="0.2" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/activity_comment.xml" value="0.2" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/activity_edit_profile.xml" value="0.2" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/activity_followers.xml" value="0.2" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/activity_message.xml" value="0.2" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/activity_options.xml" value="0.2" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/activity_post.xml" value="0.1" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/activity_second.xml" value="0.1" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/activity_story.xml" value="0.1" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/activity_user_search_profile.xml" value="0.2" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/add_story_item.xml" value="0.1" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/comment_item.xml" value="0.2" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/custom_dialog.xml" value="0.1" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/fragment_chats.xml" value="0.2" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/fragment_friends.xml" value="0.2" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/fragment_notification.xml" value="0.2" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/fragment_post_detail.xml" value="0.2" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/fragment_profile.xml" value="0.2" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/fragment_search.xml" value="0.2" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/friends_single_layout.xml" value="0.2" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/msg_item_left.xml" value="0.2" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/msg_item_right.xml" value="0.2" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/notification_item.xml" value="0.2" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/photo_item.xml" value="0.2" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/post_item.xml" value="0.15" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/start_main.xml" value="0.1" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/story_item.xml" value="0.18" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/tag_item.xml" value="0.2" />
+        <entry key="..\:/Instagram-app-master/app/src/main/res/layout/user_item.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
